@@ -1,6 +1,15 @@
+/* ------------- Defaults --------------- */
+
+*{
+  margin: 0;
+  padding: 0;
+}
 body{
-  font-family: Arial;
-  font-size: 40pt;
+  font-family: 62.5%/1.5 Verdana, Arial,  Helvetica;
+  font-size: 20pt;
+  color: #000000;
+  background: #ffffff;
+  padding: 20px
 }
 h1{
   color: green;
