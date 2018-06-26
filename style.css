@@ -32,6 +32,7 @@ li a{
   font-family: Arial, sans-serif;
   color: #141433;
   text-decoration: none;
+  padding: 8px 16px;
 }
 li{
   display: inline;
