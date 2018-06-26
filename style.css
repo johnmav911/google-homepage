@@ -24,6 +24,9 @@ ul{
   margin: 0;
   padding: 0;
 }
+li a{
+  text-align:none;
+}
 li{
   display: inline;
 }
