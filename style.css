@@ -18,6 +18,7 @@ h1{
   color: #141433;
   font-family: Helvetica, Verdana, sans-serif;
   text-align: center;
+  text-transform: uppercase;
 }
 
 ul{
@@ -33,7 +34,7 @@ li a{
   color: #141433;
   text-decoration: none;
   padding: 8px 16px;
-  text-transform: uppercase;
+  
 }
 li{
   display: inline;
