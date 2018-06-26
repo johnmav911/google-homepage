@@ -15,7 +15,7 @@ body{
 h1{
   margin: 10px;
   color: #141433;
-  font-family: Helvetica, Verdana;
+  font-family: Helvetica, Verdana, sans-serif;
 }
 
 ul{
@@ -25,7 +25,8 @@ ul{
   padding: 0;
 }
 li a{
-  text-align:none;
+  font-size: 10pt;
+  font-family: Arial, sans-serif;
 }
 li{
   display: inline;
