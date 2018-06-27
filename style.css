@@ -64,7 +64,6 @@ li a:hover {
 
 fieldset{
   border:none;
-  height: 0px;
 }
 
 #s{
@@ -76,7 +75,6 @@ fieldset{
   float:left;
   font-family:Arial,Helvetica,sans-serif;
   font-size:15px;
-  height:30px;
   line-height:36px;
   margin-top: -20px;
   margin-right:100px;
