@@ -133,7 +133,7 @@ span.arrow{
 /* The submit button */
 
 #submitButton{
-    background:url('img/buttons.png') no-repeat;
+    background: #141433;
     width:83px;
     height:36px;
     text-indent:-9999px;
