@@ -25,7 +25,7 @@ ul{
   list-style: none;
   text-align: right;
   width: 100%;
-  margin-top: -490px;
+  margin-top: -460px;
   margin-left: -120px;
   padding: -150px;
 }
@@ -52,6 +52,7 @@ li a:hover {
   padding:50px 50px 30px;
   width: 200px;
   margin-top: -150px;
+  margin-right: 100px;
   position:relative;
   border: 2px solid #000000;
   -moz-border-radius:16px;
