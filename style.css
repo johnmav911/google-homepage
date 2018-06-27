@@ -94,7 +94,8 @@ fieldset{
     text-indent:-9999px;
     overflow:hidden;
     text-transform:uppercase;
-    border:none;
+    border: 1px solid #141433;
+    border-radius: 16px;
     cursor:pointer;
 }
 
