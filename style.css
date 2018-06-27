@@ -43,5 +43,5 @@ li{
 
 li a:hover {
     color: #800000;
-    text-decoration: 2px underline; 
+    text-decoration: underline; 
 }
