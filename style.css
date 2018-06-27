@@ -42,6 +42,18 @@ li{
 }
 
 li a:hover {
-    color: #800000;
-    text-decoration: underline; 
+  color: #800000;
+  text-decoration: underline; 
+}
+
+#searchForm{
+  /* The search form. */
+  background-color:#4C5A65;
+  padding:50px 50px 30px;
+  margin:80px 0;
+  position:relative;
+
+  -moz-border-radius:16px;
+  -webkit-border-radius:16px;
+  border-radius:16px;
 }
