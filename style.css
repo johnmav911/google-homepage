@@ -84,3 +84,10 @@ fieldset{
   text-shadow: 1px 1px 0 white;
   width:385px;
 }
+
+.icons{
+  list-style:none;
+  margin:10px 0 0 335px;
+  height:19px;
+  position:relative;
+}
