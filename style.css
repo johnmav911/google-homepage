@@ -97,8 +97,8 @@ fieldset{
     border: 1px solid #141433;
     border-radius: 16px;
     cursor:pointer;
-    margin-top: -70px;
-    margin-left: 300px;
+    margin-top: -100px;
+    margin-left: 700px;
 }
 
 #submitButton:hover{
