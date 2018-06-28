@@ -78,7 +78,7 @@ fieldset{
   height:30px;
   line-height:36px;
   margin-top: -20px;
-  margin-right: 100px;
+  margin-right: 200px;
   outline:medium none;
   padding:0 0 0 35px;
   text-shadow: 1px 1px 0 white;
@@ -98,7 +98,6 @@ fieldset{
     border-radius: 16px;
     cursor:pointer;
     color: #ffffff;
-    margin-top: 20px;
 }
 
 #submitButton:hover{
