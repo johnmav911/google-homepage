@@ -49,11 +49,11 @@ li a:hover {
 #searchForm{
   /* The search form. */
   background-color:#ffffff;
-  padding: 35px 35px 15px;
+  padding:50px 50px 30px;
   width: 700px;
   height: 0px;
   margin-top: -200px;
-  margin-left:  250px;
+  margin-left:  230px;
   position:relative;
   border: 1px solid #141433;
   -moz-border-radius:16px;
